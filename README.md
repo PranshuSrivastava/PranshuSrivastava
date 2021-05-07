@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...Open Source projects on the aforementioned topics
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/pranshu-srivastava-734a471b0/)
 - Email- iampranshu24@gmail.com
+- Fun Fact...People read 10% slower from a screen, than from paper!
 <!---
 PranshuSrivastava/PranshuSrivastava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
