@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PranshuSrivastava
 - 👀 I’m interested in ...Software Development,Machine learning,Front-End Development
-- 🌱 I’m currently learning ...Natural Language Processing
+- 🌱 I’m currently learning ...Natural Language Processing, Kubernetes
 - 💞️ I’m looking to collaborate on ...Open Source projects on the aforementioned topics
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/pranshu-srivastava-734a471b0/)
 - Email- iampranshu24@gmail.com
